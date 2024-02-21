@@ -1,4 +1,4 @@
-# Scripts and results for the data analysis of pancreatic cancer in collaboration with the ISF
+# Scripts and results for the paper "Inherent inter- and intratumoral heterogeneity drives phenotypic plasticity and treatment response of pancreatic cancer organoids"
 
 The repository contains scripts to generate the paper figures. The analysis and repository is based on [Luecken, Malte D., and Fabian J. Theis. "Current best practices in single‐cell RNA‐seq analysis: a tutorial"](https://github.com/theislab/single-cell-tutorial).
 
